@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Vipul Kumar
 
-<!--
-**vipulvatsa5/vipulvatsa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Infrastructure Automation Developer
+- Interested in AI Agents & DevOps
+- Learning Python Automation & Ansible
+- Web Developer (React, Node.js, MongoDB)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- C++
+- Python
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+- Git & GitHub
+- Ansible
+
+---
+
+## 📌 Projects
+- Food Ordering Website
+- YouTube/PDF Summarizer
+- Syllabus Management System
+- AI Automation Projects
+
+---
+
+## 🌱 Currently Learning
+- Infrastructure Automation
+- DevOps
+- AI Agents
+- System Design
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: your-link
+- Email: your-email
